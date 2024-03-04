@@ -1,0 +1,40 @@
+		 FIFO 
+Iloœæ ramek:  4
+Ilosc bledow stron: 9
+Ilosc trafien: 6
+		 FIFO 
+Iloœæ ramek:  3
+Ilosc bledow stron: 12
+Ilosc trafien: 3
+		 FIFO 
+Iloœæ ramek:  3
+Ilosc bledow stron: 12
+Ilosc trafien: 3
+		 FIFO 
+Iloœæ ramek:  8
+Ilosc bledow stron: 6
+Ilosc trafien: 9
+		 FIFO 
+Iloœæ ramek:  8
+Ilosc bledow stron: 6
+Ilosc trafien: 9
+		 FIFO 
+Iloœæ ramek:  3
+Ilosc bledow stron: 12
+Ilosc trafien: 3
+		 FIFO 
+Iloœæ ramek:  3
+Ilosc bledow stron: 12
+Ilosc trafien: 3
+		 FIFO 
+Iloœæ ramek:  3
+Ilosc bledow stron: 12
+Ilosc trafien: 3
+		 FIFO 
+Iloœæ ramek:  3
+Ilosc bledow stron: 12
+Ilosc trafien: 3
+		 FIFO 
+Iloœæ ramek:  3
+Ilosc bledow stron: 12
+Ilosc trafien: 3

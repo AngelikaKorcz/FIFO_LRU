@@ -1,0 +1,28 @@
+		 LRU 
+Iloœæ ramek:  4
+Ilosc bledow stron: 7
+Ilosc trafien: 8
+		 LRU 
+Iloœæ ramek:  3
+Ilosc bledow stron: 12
+Ilosc trafien: 3
+		 LRU 
+Iloœæ ramek:  3
+Ilosc bledow stron: 12
+Ilosc trafien: 3
+		 LRU 
+Iloœæ ramek:  3
+Ilosc bledow stron: 12
+Ilosc trafien: 3
+		 LRU 
+Iloœæ ramek:  8
+Ilosc bledow stron: 6
+Ilosc trafien: 9
+		 LRU 
+Iloœæ ramek:  3
+Ilosc bledow stron: 12
+Ilosc trafien: 3
+		 LRU 
+Iloœæ ramek:  3
+Ilosc bledow stron: 12
+Ilosc trafien: 3
